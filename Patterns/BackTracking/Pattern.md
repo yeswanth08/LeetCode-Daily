@@ -6,5 +6,5 @@
     > incude / exculude -> we take an empty string or array and we have a option for including and excluding 
     > making visited in 2d array -> grid - based (dfs)
     > loope over multiple choices -> trying all different combinations 
-    > hasset -> to track the duplicacy
+    > hashset -> to track the duplicacy
     
