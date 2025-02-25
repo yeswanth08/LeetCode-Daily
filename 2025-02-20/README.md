@@ -10,4 +10,4 @@
 
     > StringBuilder => Mutable => whenever you modify the SB it doesn't create a new object is modifies in the same object . (Good for memory optimizations)
     > String => immutable => whenever you modify the String it creates a new OBJ
-    for each modification. Therefore, We have differnet memory locations to each 
+    for each modification. Therefore, We have different memory locations to each 
