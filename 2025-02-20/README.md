@@ -4,7 +4,7 @@
     > backtracking main theme is that to return the prev result and on the basis of the prev result we take the decision 
     > so backtracking has a boolean return type where is returns the prev result to stop or procced with the furture computations
 
-#### Backtracking => optimizing the recursion by exploring all the paths and returning the prev computed result 
+#### Backtracking => optimizing the recursion by exploring all the paths and returning to the prev computed result 
 
 ### StringBuilder vs String
 
